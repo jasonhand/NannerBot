@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FBoucher/CloudBot.git"
+    "url": "git+https://github.com/jasonhand/NannerBot.git"
   },
   "author": "fboucher",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/FBoucher/CloudBot/issues"
+    "url": "https://github.com/jasonhand/NannerBot/issues"
   },
-  "homepage": "https://github.com/FBoucher/CloudBot#readme",
+  "homepage": "https://github.com/jasonhand/NannerBot#readme",
   "dependencies": {
     "dateformat": "^3.0.3",
     "express": "^4.17.1",
