@@ -10,7 +10,9 @@ Simple Twitch chatbot for Twitch Stream, build with [Comfy.JS](https://github.co
 
 ![cloudbot logo](medias/cloudbot_logo.png)
 
-First it was a pretext to learn (or refresh) my JavaScript knowledge, but it became quickly fun to add more and more feature to it. Have a look customize it. make suggestion... this is pure fun. :)
+>NOTE: The logo above will be changed.
+
+This repo is forked from Frank Boucher to create a new Twitch bot to be used on [my channel](https://www.twitch.tv/jhandtv).
 
 Currently Available Commands
 ----------------------------
