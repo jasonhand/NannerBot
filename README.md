@@ -1,8 +1,10 @@
-# Cloud Bot
+# NannerBot
 ![Release Docker Image CI](https://github.com/FBoucher/CloudBot/workflows/Release%20Docker%20Image%20CI/badge.svg?branch=main) ![Build Beta Docker Images](https://github.com/FBoucher/CloudBot/workflows/Build%20Docker%20Images/badge.svg?branch=main)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
+
+>NOTE: This is a fork of Frank Boucher's repo. Changes to come.
 
 Simple Twitch chatbot for Twitch Stream, build with [Comfy.JS](https://github.com/instafluff/ComfyJS). 
 
